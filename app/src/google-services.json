@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817326012011",
+    "project_id": "gfgfirebasepractice",
+    "storage_bucket": "gfgfirebasepractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817326012011:android:3e634d49a6f6f9881be32e",
+        "android_client_info": {
+          "package_name": "com.anurag.gfg_lecture8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817326012011-jeqf82p1gs9mll37iifj96hgicsf4fma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEFz6py5bD2rZmi_7IPHO6SkglaeJUSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817326012011-jeqf82p1gs9mll37iifj96hgicsf4fma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
